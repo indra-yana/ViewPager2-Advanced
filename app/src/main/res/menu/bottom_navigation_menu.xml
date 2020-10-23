@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_slider"
+        android:contentDescription="@string/title_slider_example"
+        android:icon="@drawable/ic_view_carousel_black_48dp"
+        android:title="@string/title_slider_example" />
+    <item
+        android:id="@+id/menu_card"
+        android:contentDescription="@string/title_card_example"
+        android:icon="@drawable/ic_widgets_black_48dp"
+        android:title="@string/title_card_example" />
+    <item
+        android:id="@+id/menu_tab"
+        android:contentDescription="@string/title_tab_example"
+        android:icon="@drawable/ic_view_list_black_48dp"
+        android:title="@string/title_tab_example" />
+
+    <item
+        android:id="@+id/menu_dynamic_tab"
+        android:contentDescription="@string/title_dynamic_tab_example"
+        android:icon="@drawable/ic_tab_black_48dp"
+        android:title="@string/title_dynamic_tab_example" />
+</menu>
